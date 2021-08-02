@@ -7,3 +7,4 @@ Browser("Advantage Shopping").Page("Advantage Shopping").Link("HOME").Click @@ h
 Browser("Advantage Shopping").Page("Advantage Shopping").Sync @@ hightlight id_;_Browser("Advantage Shopping").Page("Advantage Shopping")_;_script infofile_;_ZIP::ssf113.xml_;_
 Browser("Advantage Shopping").CloseAllTabs @@ hightlight id_;_2557022_;_script infofile_;_ZIP::ssf114.xml_;_
 'Comment1
+'Comment2 from 0895
