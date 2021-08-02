@@ -6,3 +6,4 @@ Browser("Advantage Shopping").Page("Advantage Shopping").WebElement("HP Elite x2
 Browser("Advantage Shopping").Page("Advantage Shopping").Link("HOME").Click @@ hightlight id_;_Browser("Advantage Shopping").Page("Advantage Shopping").Link("HOME")_;_script infofile_;_ZIP::ssf112.xml_;_
 Browser("Advantage Shopping").Page("Advantage Shopping").Sync @@ hightlight id_;_Browser("Advantage Shopping").Page("Advantage Shopping")_;_script infofile_;_ZIP::ssf113.xml_;_
 Browser("Advantage Shopping").CloseAllTabs @@ hightlight id_;_2557022_;_script infofile_;_ZIP::ssf114.xml_;_
+'Comment1
