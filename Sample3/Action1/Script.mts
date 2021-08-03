@@ -8,3 +8,4 @@ Browser("Advantage Shopping").Page("Advantage Shopping").WebElement("REMOVE").Cl
 Browser("Advantage Shopping").Page("Advantage Shopping").Sync @@ hightlight id_;_Browser("Advantage Shopping").Page("Advantage Shopping")_;_script infofile_;_ZIP::ssf11.xml_;_
 Browser("Advantage Shopping").CloseAllTabs @@ hightlight id_;_787940_;_script infofile_;_ZIP::ssf12.xml_;_
 'comment1
+'comment2
